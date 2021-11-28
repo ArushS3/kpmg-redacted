@@ -6,11 +6,11 @@ const obj = {
       },
       {
          "key": "y",
-         "value": "a"
+         "value": "b"
       },
       {
          "key": "z",
-         "value": "a"
+         "value": "c"
       }   
 
    ]
