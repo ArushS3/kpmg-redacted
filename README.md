@@ -29,7 +29,7 @@ Code:-
 
 curl -H Metadata:true --noproxy "*" "http://169.254.169.254/metadata/instance?api-version=2021-02-01" | jq
 
- # output for challenge-two are uploaded in a seperate document in mail #
+output for challenge-two are uploaded in a seperate document in mail 
 
 ### Challenge 3 ###
 The code is inside the technical-challenge-3 folder,goes by the name of nested js
